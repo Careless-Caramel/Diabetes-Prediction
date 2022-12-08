@@ -1,5 +1,6 @@
 #                                                  Diabetes Classification using KNN Classification algorithm
-https://t4.ftcdn.net/jpg/02/54/05/71/360_F_254057115_U7v21xIVH1VwLe9jpfbztv8asNm1GvWa.jpg
+
+![360_F_254057115_U7v21xIVH1VwLe9jpfbztv8asNm1GvWa](https://user-images.githubusercontent.com/86556401/206431212-e7a824f6-4b1e-4f44-bc3f-a73bca523c94.jpg)
 
 # Objective :
 
